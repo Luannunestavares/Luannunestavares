@@ -8,7 +8,7 @@
 - 👯 Procurando sempre desenvolver e botar em prática os conhecimentos obtidos.
 - 👀 Sejam sempre Bem-vindos.
 
- <div align="center">
+ <div style="display:inline_block">
   <a href="https://github.com/Luannunestavares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luannunestavares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
