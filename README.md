@@ -26,9 +26,16 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" alt="Mysql" height="40" widht="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-   
+ 
    </div>
           
-          
+ ##
+ 
+ <div>
+ 
+  <a href="https://www.linkedin.com/in/luan-nunes-tavares-ab4159248/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+ 
+ </div>
           
           
