@@ -3,8 +3,8 @@
 
 
 
-- 🔭 Atualmente estou cursando técnico em TI na instituição Senac São Paulo e estudando programação no grupo Alura.
-- 🌱 Foco total em HTML, JS , CSS, C# e MySQL. 
+- 🔭 Cursei técnico em TI na instituição Senac São Paulo, agora estou cursando análise e desenvolvimento de sistemas e estudando programação no grupo Alura.
+- 🌱 Conhecimento C# e MySQL. 
 - 👯 Procurando sempre desenvolver e botar em prática os conhecimentos obtidos.
 - 👀 Sejam sempre Bem-vindos.
 
